@@ -1,0 +1,6 @@
+/Users/ktkudagala/@Coding/Dot NET/Gem_N_Doors/Gem_N_Doors/bin/Debug/Gem_N_Doors.exe
+/Users/ktkudagala/@Coding/Dot NET/Gem_N_Doors/Gem_N_Doors/bin/Debug/Gem_N_Doors.pdb
+/Users/ktkudagala/@Coding/Dot NET/Gem_N_Doors/Gem_N_Doors/obj/Debug/Gem_N_Doors.csproj.AssemblyReference.cache
+/Users/ktkudagala/@Coding/Dot NET/Gem_N_Doors/Gem_N_Doors/obj/Debug/Gem_N_Doors.csproj.CoreCompileInputs.cache
+/Users/ktkudagala/@Coding/Dot NET/Gem_N_Doors/Gem_N_Doors/obj/Debug/Gem_N_Doors.exe
+/Users/ktkudagala/@Coding/Dot NET/Gem_N_Doors/Gem_N_Doors/obj/Debug/Gem_N_Doors.pdb
